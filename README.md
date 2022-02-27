@@ -1,6 +1,9 @@
 # Mapping_Earthquakes_V2
 
-
+Rsources
+ - JavaScript
+ - Leaflet.js
+ - geoJSON
 
 
 
@@ -25,4 +28,5 @@
 
 ## Dark View
 
+![image](https://user-images.githubusercontent.com/94253815/155904092-6af65f92-cc5d-432e-b13a-d7afcb3301da.png)
 
